@@ -1,0 +1,7 @@
+[ ] Read about litestar lifecycle hooks
+[ ] Read about a similar integration in wireup
+[ ] Implement basic global DI container integration 
+	[ ] startup: https://docs.litestar.dev/2/reference/config.html#litestar.config.app.AppConfig.on_shutdown
+	[ ] shutdown: https://docs.litestar.dev/2/reference/config.html#litestar.config.app.AppConfig.on_shutdown
+[ ] Implement request DI scope # https://docs.litestar.dev/2/usage/lifecycle-hooks.html#before-request
+[ ] Write tests
