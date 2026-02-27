@@ -68,6 +68,7 @@ dev = [
     "mdformat-mkdocs>=1.0.0",
     "blacken-docs>=1.16.0",
     "ruff>=0.4.0",
+    "celery[librabbitmq]>=5.5.3",
 ]
 
 [build-system]

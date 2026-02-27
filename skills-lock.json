@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "celery-expert": {
+      "source": "martinholovsky/claude-skills-generator",
+      "sourceType": "github",
+      "computedHash": "a0bc038bb3a9c930024720a2f34eb5fa7aad2152171cc7f7943afdf8c98f7f60"
+    }
+  }
+}
